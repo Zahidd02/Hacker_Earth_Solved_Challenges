@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\bin\Debug\netcoreapp3.1\RotateMatrixby90.exe
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\bin\Debug\netcoreapp3.1\RotateMatrixby90.deps.json
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\bin\Debug\netcoreapp3.1\RotateMatrixby90.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\bin\Debug\netcoreapp3.1\RotateMatrixby90.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\bin\Debug\netcoreapp3.1\RotateMatrixby90.dll
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\bin\Debug\netcoreapp3.1\RotateMatrixby90.pdb
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.dll
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.pdb
+C:\Users\zahid\source\repos\HackerEarth\RotateMatrixby90\RotateMatrixby90\obj\Debug\netcoreapp3.1\RotateMatrixby90.genruntimeconfig.cache

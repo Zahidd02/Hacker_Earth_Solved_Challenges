@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3FW/n1S311HaobmJDaXVGv3JR9mJvO4L4d1QRQF6h9sE2rCJaw592r/7BGV2074G4OgaCaD7Ln2yF0tl31t6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\RotateMatrixby90\\RotateMatrixby90\\RotateMatrixby90.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
