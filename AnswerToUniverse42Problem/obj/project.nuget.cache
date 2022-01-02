@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8IWhFNyWwq7Cx6YhtNHYugZpzBh15JObDplh/62CFU0G6amOGcWCNBkjjVLByNF0HBh07Nt2xPLtcA50XBsPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\ConsoleApp1\\AnsToUniverse42.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

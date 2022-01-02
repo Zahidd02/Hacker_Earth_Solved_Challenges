@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\bin\Debug\netcoreapp3.1\PalindromicStringProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\bin\Debug\netcoreapp3.1\PalindromicStringProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\bin\Debug\netcoreapp3.1\PalindromicStringProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\bin\Debug\netcoreapp3.1\PalindromicStringProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\bin\Debug\netcoreapp3.1\PalindromicStringProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\bin\Debug\netcoreapp3.1\PalindromicStringProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\PalindromicStringProblem\obj\Debug\netcoreapp3.1\PalindromicStringProblem.genruntimeconfig.cache

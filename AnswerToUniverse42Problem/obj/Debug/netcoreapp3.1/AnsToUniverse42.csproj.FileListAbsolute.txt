@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\bin\Debug\netcoreapp3.1\AnsToUniverse42.exe
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\bin\Debug\netcoreapp3.1\AnsToUniverse42.deps.json
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\bin\Debug\netcoreapp3.1\AnsToUniverse42.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\bin\Debug\netcoreapp3.1\AnsToUniverse42.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\bin\Debug\netcoreapp3.1\AnsToUniverse42.dll
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\bin\Debug\netcoreapp3.1\AnsToUniverse42.pdb
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.dll
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.pdb
+C:\Users\zahid\source\repos\HackerEarth\ConsoleApp1\obj\Debug\netcoreapp3.1\AnsToUniverse42.genruntimeconfig.cache

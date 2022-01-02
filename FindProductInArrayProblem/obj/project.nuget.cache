@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hziGJsoby7j2111xYfsfTieKNV1C+UCMjiidYR/0txPHs5v6x+2xPwhf31cC1lMAHy1j7xpVVazEvoHWuOQ8lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\FindProductInArrayProblem\\FindProductInArrayProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

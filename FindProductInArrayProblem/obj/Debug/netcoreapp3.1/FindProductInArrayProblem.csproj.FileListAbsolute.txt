@@ -1,0 +1,13 @@
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\bin\Debug\netcoreapp3.1\FindProductInArrayProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\bin\Debug\netcoreapp3.1\FindProductInArrayProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\bin\Debug\netcoreapp3.1\FindProductInArrayProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\bin\Debug\netcoreapp3.1\FindProductInArrayProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\bin\Debug\netcoreapp3.1\FindProductInArrayProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\bin\Debug\netcoreapp3.1\FindProductInArrayProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\FindProductInArrayProblem\obj\Debug\netcoreapp3.1\FindProductInArrayProblem.genruntimeconfig.cache

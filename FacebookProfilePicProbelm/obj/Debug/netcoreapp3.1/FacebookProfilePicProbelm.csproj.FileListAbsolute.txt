@@ -1,0 +1,13 @@
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\bin\Debug\netcoreapp3.1\FacebookProfilePicProbelm.exe
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\bin\Debug\netcoreapp3.1\FacebookProfilePicProbelm.deps.json
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\bin\Debug\netcoreapp3.1\FacebookProfilePicProbelm.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\bin\Debug\netcoreapp3.1\FacebookProfilePicProbelm.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\bin\Debug\netcoreapp3.1\FacebookProfilePicProbelm.dll
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\bin\Debug\netcoreapp3.1\FacebookProfilePicProbelm.pdb
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.dll
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.pdb
+C:\Users\zahid\source\repos\HackerEarth\FacebookProfilePicProbelm\obj\Debug\netcoreapp3.1\FacebookProfilePicProbelm.genruntimeconfig.cache

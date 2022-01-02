@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProductInArrayProblem", "FindProductInArrayProblem.csproj", "{994FE469-90F4-4147-B6BB-311E00BE747C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994FE469-90F4-4147-B6BB-311E00BE747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994FE469-90F4-4147-B6BB-311E00BE747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994FE469-90F4-4147-B6BB-311E00BE747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994FE469-90F4-4147-B6BB-311E00BE747C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2579587-E1CB-4432-A70E-EC65275CB26B}
+	EndGlobalSection
+EndGlobal

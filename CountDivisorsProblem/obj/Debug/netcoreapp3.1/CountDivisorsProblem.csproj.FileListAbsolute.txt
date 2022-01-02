@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\bin\Debug\netcoreapp3.1\CountDivisorsProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\bin\Debug\netcoreapp3.1\CountDivisorsProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\bin\Debug\netcoreapp3.1\CountDivisorsProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\bin\Debug\netcoreapp3.1\CountDivisorsProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\bin\Debug\netcoreapp3.1\CountDivisorsProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\bin\Debug\netcoreapp3.1\CountDivisorsProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\CountDivisorsProblem\obj\Debug\netcoreapp3.1\CountDivisorsProblem.genruntimeconfig.cache
