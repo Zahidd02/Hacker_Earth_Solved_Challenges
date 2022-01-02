@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\RotateMatrixby90\\RotateMatrixby90\\RotateMatrixby90.csproj",
+      "projectUniqueName": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\RotateMatrixby90\\RotateMatrixby90\\RotateMatrixby90.csproj",
       "projectName": "RotateMatrixby90",
-      "projectPath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\RotateMatrixby90\\RotateMatrixby90\\RotateMatrixby90.csproj",
+      "projectPath": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\RotateMatrixby90\\RotateMatrixby90\\RotateMatrixby90.csproj",
       "packagesPath": "C:\\Users\\zahid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\RotateMatrixby90\\RotateMatrixby90\\obj\\",
+      "outputPath": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\RotateMatrixby90\\RotateMatrixby90\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",

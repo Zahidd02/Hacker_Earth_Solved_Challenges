@@ -25,7 +25,7 @@ namespace RotateMatrixby90
                     A[i, j] = matrixRead[j];
                 }
             }
-            //Obi wan Kenobi Easter Egg
+            //Obi wan Kenobi & Darth Vader Easter Egg
 
             int temp = rows - 1;
             int count = 0;
