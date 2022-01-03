@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yAQLlxbGMMUZrv8NuDLGgdu3kPOrsJ3jRt7RDA+tkY/q6Epd5qbiTHxV03CDmUoUd43kUcBgqzqh+oX6izHwiA==",
+  "dgSpecHash": "pu5ophc4h1QONv0zchrXmt7MO8PYaPdJlQ578zspFxXUjw6q2loGiwB3ft0D9EyiMYCX7Aw6/m9IEKVS9P0KZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj",
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

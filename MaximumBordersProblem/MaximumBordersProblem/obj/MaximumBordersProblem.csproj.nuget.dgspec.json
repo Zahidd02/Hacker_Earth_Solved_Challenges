@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahid\\Hacker_Earth_Challenges\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj": {}
+    "C:\\Users\\zahid\\source\\repos\\HackerEarth\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahid\\Hacker_Earth_Challenges\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj": {
+    "C:\\Users\\zahid\\source\\repos\\HackerEarth\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj",
+        "projectUniqueName": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj",
         "projectName": "MaximumBordersProblem",
-        "projectPath": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj",
+        "projectPath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\MaximumBordersProblem\\MaximumBordersProblem\\MaximumBordersProblem.csproj",
         "packagesPath": "C:\\Users\\zahid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahid\\Hacker_Earth_Challenges\\MaximumBordersProblem\\MaximumBordersProblem\\obj\\",
+        "outputPath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\MaximumBordersProblem\\MaximumBordersProblem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",

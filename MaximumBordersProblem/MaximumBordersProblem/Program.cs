@@ -12,13 +12,13 @@ namespace MaximumBordersProblem
             int test;
             String[] values = new string[2];
 
-            //Console.Write("Number of Test cases : ");
+            Console.Write("Number of Test cases : ");
             test = Convert.ToInt32(Console.ReadLine());
 
             Cases:
             List<int> result = new List<int>();
 
-            //Console.Write("Number of rows and columns with space between them : ");
+            Console.Write("Number of rows and columns with space between them : ");
             values = Console.ReadLine().Split(" ");
 
             rows = Convert.ToInt32(values[0]);
