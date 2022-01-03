@@ -1,0 +1,13 @@
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\bin\Debug\netcoreapp3.1\ZoosProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\bin\Debug\netcoreapp3.1\ZoosProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\bin\Debug\netcoreapp3.1\ZoosProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\bin\Debug\netcoreapp3.1\ZoosProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\bin\Debug\netcoreapp3.1\ZoosProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\bin\Debug\netcoreapp3.1\ZoosProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\ZoosProblem\ZoosProblem\obj\Debug\netcoreapp3.1\ZoosProblem.genruntimeconfig.cache
