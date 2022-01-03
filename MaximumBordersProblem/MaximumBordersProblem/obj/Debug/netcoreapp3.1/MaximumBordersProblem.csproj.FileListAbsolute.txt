@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\bin\Debug\netcoreapp3.1\MaximumBordersProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\bin\Debug\netcoreapp3.1\MaximumBordersProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\bin\Debug\netcoreapp3.1\MaximumBordersProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\bin\Debug\netcoreapp3.1\MaximumBordersProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\bin\Debug\netcoreapp3.1\MaximumBordersProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\bin\Debug\netcoreapp3.1\MaximumBordersProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\MaximumBordersProblem\MaximumBordersProblem\obj\Debug\netcoreapp3.1\MaximumBordersProblem.genruntimeconfig.cache
