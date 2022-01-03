@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Agyd43xkxEd4WjrljchPu3jMKYruOGCviSeQ/EfvtQua42Ni0N+uCMS2sbJcHBrZPuYfI2zHCJF3yKpsUq04jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\NumberOfStepsProblem\\NumberOfSteps\\NumberOfSteps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
