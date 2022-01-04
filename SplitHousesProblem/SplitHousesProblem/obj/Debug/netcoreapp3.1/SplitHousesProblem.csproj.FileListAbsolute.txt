@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\bin\Debug\netcoreapp3.1\SplitHousesProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\bin\Debug\netcoreapp3.1\SplitHousesProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\bin\Debug\netcoreapp3.1\SplitHousesProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\bin\Debug\netcoreapp3.1\SplitHousesProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\bin\Debug\netcoreapp3.1\SplitHousesProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\bin\Debug\netcoreapp3.1\SplitHousesProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.genruntimeconfig.cache
+C:\Users\zahid\source\repos\HackerEarth\SplitHousesProblem\SplitHousesProblem\obj\Debug\netcoreapp3.1\SplitHousesProblem.csproj.AssemblyReference.cache

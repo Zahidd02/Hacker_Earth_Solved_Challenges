@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGzgHsQ23bT/PsOssC0Sk0yq2dooNRuKXzjejwrw9JTP3M4jYhfgzL/drSy41U4uEAacTkKezUqrT6MMymChJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\SplitHousesProblem\\SplitHousesProblem\\SplitHousesProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
