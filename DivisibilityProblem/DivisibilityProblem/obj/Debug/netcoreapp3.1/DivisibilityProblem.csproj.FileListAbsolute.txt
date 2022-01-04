@@ -1,0 +1,13 @@
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\bin\Debug\netcoreapp3.1\DivisibilityProblem.exe
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\bin\Debug\netcoreapp3.1\DivisibilityProblem.deps.json
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\bin\Debug\netcoreapp3.1\DivisibilityProblem.runtimeconfig.json
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\bin\Debug\netcoreapp3.1\DivisibilityProblem.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\bin\Debug\netcoreapp3.1\DivisibilityProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\bin\Debug\netcoreapp3.1\DivisibilityProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.AssemblyInfo.cs
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.dll
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.pdb
+C:\Users\zahid\source\repos\HackerEarth\DivisibilityProblem\DivisibilityProblem\obj\Debug\netcoreapp3.1\DivisibilityProblem.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZass7fm3Ckdd+5zqe0IdtJzrnlQxDxy8yK+1O6fWsovQkQuXuf0w/YCbKMsDyKphbRm/Y6brbEbj1n3eh142g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\HackerEarth\\DivisibilityProblem\\DivisibilityProblem\\DivisibilityProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
