@@ -46,7 +46,7 @@ public class CostOfBalloons {
                     result += (greenBalloon * firstTotal) + (purpleBalloon * secondTotal);
                 }
             }
-            else if(purpleBalloon < greenBalloon) {
+            else {
                 if((purpleBalloon * firstTotal) < (purpleBalloon * secondTotal)) {
                     result += (purpleBalloon * secondTotal) + (greenBalloon * firstTotal);
                 }
