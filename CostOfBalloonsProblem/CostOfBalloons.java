@@ -5,20 +5,23 @@ import java.util.Scanner;
 public class CostOfBalloons {
     public static void main(String[] args) {
         int test;
+        int greenBalloon;
+        int purpleBalloon;
+        int participants;
+        int[] firstScore;
+        int[] secondScore;
+        int firstTotal = 0;
+        int secondTotal = 0;
+        int result = 0; 
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Enter number of test cases : ");
         test = scan.nextInt();
 
         for (int m = 1; m <= test; m++) {
-            int greenBalloon;
-            int purpleBalloon;
-            int participants;
-            int[] firstScore;
-            int[] secondScore;
-            int firstTotal = 0;
-            int secondTotal = 0;
-            int result = 0; 
+            firstTotal = 0;
+            secondTotal = 0;
+            result = 0; 
             System.out.print("Enter the cost of balloons with space between them : ");
             greenBalloon = scan.nextInt();
             purpleBalloon = scan.nextInt();
