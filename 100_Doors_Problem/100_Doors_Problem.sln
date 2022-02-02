@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100_Doors_Problem", "100_Doors_Problem\100_Doors_Problem.csproj", "{B504B0BE-9822-41CE-94A3-E66E1B39211A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B504B0BE-9822-41CE-94A3-E66E1B39211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B504B0BE-9822-41CE-94A3-E66E1B39211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B504B0BE-9822-41CE-94A3-E66E1B39211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B504B0BE-9822-41CE-94A3-E66E1B39211A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E452555-08B2-4947-9A28-D9BC640D722A}
+	EndGlobalSection
+EndGlobal
