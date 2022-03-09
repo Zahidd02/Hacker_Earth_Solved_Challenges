@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\bin\Debug\netcoreapp3.1\Sum_Array.exe
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\bin\Debug\netcoreapp3.1\Sum_Array.deps.json
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\bin\Debug\netcoreapp3.1\Sum_Array.runtimeconfig.json
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\bin\Debug\netcoreapp3.1\Sum_Array.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\bin\Debug\netcoreapp3.1\Sum_Array.dll
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\bin\Debug\netcoreapp3.1\Sum_Array.pdb
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.dll
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.pdb
+C:\Users\zahid\source\repos\Codestudio\Sum_Array\Sum_Array\obj\Debug\netcoreapp3.1\Sum_Array.genruntimeconfig.cache

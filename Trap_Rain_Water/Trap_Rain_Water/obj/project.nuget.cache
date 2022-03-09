@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xs6Fsh7kFn21hp/tleyE/lujPbWbLkWc7qkWNhvR7UXeJnWIRXhz4eXzQe6rntQDsUDcbZJj6bsxMrc+7psrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\Codestudio\\Trap_Rain_Water\\Trap_Rain_Water\\Trap_Rain_Water.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

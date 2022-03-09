@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\bin\Debug\netcoreapp3.1\Flip_Bits.exe
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\bin\Debug\netcoreapp3.1\Flip_Bits.deps.json
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\bin\Debug\netcoreapp3.1\Flip_Bits.runtimeconfig.json
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\bin\Debug\netcoreapp3.1\Flip_Bits.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\bin\Debug\netcoreapp3.1\Flip_Bits.dll
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\bin\Debug\netcoreapp3.1\Flip_Bits.pdb
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.csproj.AssemblyReference.cache
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.dll
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.pdb
+C:\Users\zahid\source\repos\Codestudio\Flip_Bits\Flip_Bits\obj\Debug\netcoreapp3.1\Flip_Bits.genruntimeconfig.cache

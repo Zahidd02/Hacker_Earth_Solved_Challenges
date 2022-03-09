@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sum_Of_Infinite_Array/1.0.0": {
+        "runtime": {
+          "Sum_Of_Infinite_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_Of_Infinite_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

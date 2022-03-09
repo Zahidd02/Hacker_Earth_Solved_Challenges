@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AIbrL8BRqZ+D3vDJeYksw457QaOsWYkMGq6rP5xR2pfnPCyvct1C9Bucy0awF4f52jgld84uS8Srun5A5ptbqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\Codestudio\\Sum_Array\\Sum_Array\\Sum_Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

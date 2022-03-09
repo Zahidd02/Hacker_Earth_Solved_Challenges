@@ -1,0 +1,13 @@
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\bin\Debug\netcoreapp3.1\Trap_Rain_Water.exe
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\bin\Debug\netcoreapp3.1\Trap_Rain_Water.deps.json
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\bin\Debug\netcoreapp3.1\Trap_Rain_Water.runtimeconfig.json
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\bin\Debug\netcoreapp3.1\Trap_Rain_Water.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\bin\Debug\netcoreapp3.1\Trap_Rain_Water.dll
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\bin\Debug\netcoreapp3.1\Trap_Rain_Water.pdb
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.dll
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.pdb
+C:\Users\zahid\source\repos\Codestudio\Trap_Rain_Water\Trap_Rain_Water\obj\Debug\netcoreapp3.1\Trap_Rain_Water.genruntimeconfig.cache

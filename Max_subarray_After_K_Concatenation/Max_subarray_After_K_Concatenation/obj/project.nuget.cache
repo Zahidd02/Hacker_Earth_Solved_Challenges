@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPZREymASeP8OKTX2oJJup+3rJyYuoILuUAjQ8Wr/bAiSHNbZwSTmbBzSq4GyLV8HeiXl+lyLr9TpYc67bkjqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\source\\repos\\Codestudio\\Max_subarray_After_K_Concatenation\\Max_subarray_After_K_Concatenation\\Max_subarray_After_K_Concatenation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

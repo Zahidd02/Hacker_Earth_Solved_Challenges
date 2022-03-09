@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7876394-f73c-47da-9946-062c56123352": {
+      "ProjectGuid": "b7876394-f73c-47da-9946-062c56123352",
+      "DisplayName": "Max_subarray_After_K_Concatenation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
