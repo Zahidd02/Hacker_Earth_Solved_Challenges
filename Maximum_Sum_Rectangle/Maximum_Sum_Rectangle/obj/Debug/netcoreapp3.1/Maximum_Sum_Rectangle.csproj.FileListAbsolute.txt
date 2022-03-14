@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\bin\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.exe
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\bin\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.deps.json
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\bin\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.runtimeconfig.json
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\bin\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\bin\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.dll
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\bin\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.pdb
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.dll
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.pdb
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.genruntimeconfig.cache
+C:\Users\zahid\source\repos\Codestudio\Maximum_Sum_Rectangle\Maximum_Sum_Rectangle\obj\Debug\netcoreapp3.1\Maximum_Sum_Rectangle.csproj.AssemblyReference.cache
