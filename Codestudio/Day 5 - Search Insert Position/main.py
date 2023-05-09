@@ -9,7 +9,7 @@
 #             return len(arr)
 import sys
 
-# Optimized Approach : O(n)
+# Optimized Approach : O(logn)
 pos = -1
 
 
