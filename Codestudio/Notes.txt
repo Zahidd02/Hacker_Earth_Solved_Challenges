@@ -1,1 +1,5 @@
 > Do the "Quicksort using the Dutch national flag algorithm" problem (https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118820/offering/1381876) after learning quicksort.
+
+> if (x+y) % k = m, 
+  then (x%k+y%k) % k=m 
+  therefore (x%k) % k = (m-y%k+k) % k
