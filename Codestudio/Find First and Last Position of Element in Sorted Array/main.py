@@ -14,15 +14,12 @@
 # Optimised Approach : O(logn)
 import sys
 
-first = sys.maxsize
-last = -sys.maxsize
-
 
 def searchRange(arr, x):
-    global first
-    global last
-
-    binarySort(arr, 0, len(arr)-1, x)
+    maxNum = sys.maxsize
+    minNum = -sys.maxsize
+    first = binarySearchFirst(arr, 0, len(arr) - 1, x, maxNum)
+    last = binarySearchLast(arr, 0, len(arr) - 1, x, minNum)
 
     if first == sys.maxsize:
         first = -1
@@ -31,22 +28,32 @@ def searchRange(arr, x):
     return [first, last]
 
 
-def binarySort(arr, low, high, x):
-    global first
-    global last
-    mid = int((low + high) / 2)
+def binarySearchFirst(arr, low, high, x, first):
+    mid = (low + high) // 2
 
     if arr[mid] == x:
         first = min(first, mid)
+    if low >= high:
+        return first
+    if x <= arr[mid]:
+        return binarySearchFirst(arr, low, mid - 1, x, first)
+    else:
+        return binarySearchFirst(arr, mid + 1, high, x, first)
+
+
+def binarySearchLast(arr, low, high, x, last):
+    mid = (low + high) // 2
+
+    if arr[mid] == x:
         last = max(last, mid)
     if low >= high:
-        return
+        return last
     if x >= arr[mid]:
-        binarySort(arr, mid + 1, high, x)
-    if x <= arr[mid]:
-        binarySort(arr, low, mid - 1, x)
+        return binarySearchLast(arr, mid + 1, high, x, last)
+    else:
+        return binarySearchLast(arr, low, mid - 1, x, last)
 
 
-result = searchRange([0, 1, 5, 5, 6, 7], 7)
+result = searchRange([1, 2, 4, 4, 5], 4)
 print(result)
 
