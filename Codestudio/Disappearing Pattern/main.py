@@ -20,3 +20,12 @@ for i in range(0, len(letters)):  # [6], [5, 6, 7], [4, 5, 6, 7, 8], ...
         if len(arr) == len(letters):
             break
     print("")
+
+# Output:
+# ABCDEFGFEDCBA
+# ABCDEF FEDCBA
+# ABCDE   EDCBA
+# ABCD     DCBA
+# ABC       CBA
+# AB         BA
+# A           A
