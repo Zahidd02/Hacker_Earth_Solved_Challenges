@@ -12,27 +12,62 @@
 #         ans.append(val % mod)
 #     return ans
 
-# Optimized Approach :
-def getProductArrayExceptSelf(arr, n):
+# Optimized Approach : O(n) : O(n) space
+# def getProductArrayExceptSelf(arr, n):
+#     arrLR = []
+#     arrRL = []
+#     ans = []
+#     mod = 1000000000 + 7
+#
+#     if n == 1:
+#         return [1]
+#
+#     temp = 1
+#     for i in range(0, n):
+#         temp *= arr[i]
+#         arrLR.append(temp)
+#
+#     temp = 1
+#     for i in range(n - 1, -1, -1):
+#         temp *= arr[i]
+#         arrRL.insert(0, temp)
+#
+#     for i in range(0, n):
+#         if i == 0:
+#             ans.append(arrRL[1] % mod)
+#         elif i == n - 1:
+#             ans.append(arrLR[n - 2] % mod)
+#         else:
+#             ans.append((arrRL[i + 1] * arrLR[i - 1]) % mod)
+#     return ans
+
+# Optimized Space Complexity Approach : O(n) time - O(1) space, since we are not counting output array space
+def getProductArrayExceptSelf(arr, n):  # [1, 2, 6, 24] [24, 24, 12, 4]
     ans = []
     mod = 1000000000 + 7
+
+    if n == 0:
+        return ans
+    elif n == 1:
+        return [1]
+
     temp = 1
-    count_zero = 0
-
     for i in range(0, n):
-        if arr[i] != 0:
-            temp = (temp * arr[i]) % mod
-        else:
-            count_zero = count_zero + 1
+        temp *= arr[i]
+        ans.append(temp)
 
-    for j in range(0, n):
-        if arr[j] != 0 and count_zero == 0:
-            ans.append(int(temp / arr[j]) % mod)
-        elif arr[j] == 0 and count_zero == 1:
-            ans.append(temp % mod)
+    prod = arr[n - 1]
+    for j in range(n - 1, -1, -1):
+        if j == n - 1:
+            ans[n - 1] = ans[n - 2] % mod
+        elif j == 0:
+            ans[j] = prod % mod
         else:
-            ans.append(0)
+            ans[j] = (prod * ans[j - 1]) % mod
+            prod *= arr[j]
+
     return ans
 
-result = getProductArrayExceptSelf([0, 1, 2], 3)
+
+result = getProductArrayExceptSelf([1, 2, 3, 4], 4)
 print(result)
