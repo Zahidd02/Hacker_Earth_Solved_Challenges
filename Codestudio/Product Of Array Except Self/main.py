@@ -42,7 +42,7 @@
 #     return ans
 
 # Optimized Space Complexity Approach : O(n) time - O(1) space, since we are not counting output array space
-def getProductArrayExceptSelf(arr, n):  # [1, 2, 6, 24] [24, 24, 12, 4]
+def getProductArrayExceptSelf(arr, n): 
     ans = []
     mod = 1000000000 + 7
 
