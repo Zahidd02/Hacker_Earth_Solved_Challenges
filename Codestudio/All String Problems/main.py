@@ -85,7 +85,7 @@ class StringProblems:
                 dict[item] = dict[item] - 1
         return count
 
-    # Given a string, find the next smallest palindrome
+    # Given a string, find the next smallest palindrome : Hard Problem
     def nextLargestPalindrome(self, s, length):
         if length % 2 == 0:
             ans = ""
@@ -145,58 +145,18 @@ class StringProblems:
                     ans += first + last
                     return ans
 
-    # Find K’th Character of Decrypted String : Brute Force : O(n)
-    # def kThCharacterOfDecryptedString(self, s, k):
-    #     alpha = re.findall('[a-z]', s)
-    #     numeric = re.findall('[0-9]', s)
-    #     n = len(s)
-    #     alpha_arr = []
-    #     num_arr = []
-    #     temp_str = ""
-    #
-    #     for i in range(0, n):
-    #         if numeric.__contains__(s[i]):
-    #             if temp_str != "":
-    #                 alpha_arr.append(temp_str)
-    #                 temp_str = ""
-    #             continue
-    #         else:
-    #             temp_str += s[i]
-    #
-    #     for j in range(0, n):
-    #         if alpha.__contains__(s[j]):
-    #             if temp_str != "":
-    #                 num_arr.append(temp_str)
-    #                 temp_str = ""
-    #             continue
-    #         else:
-    #             temp_str += s[j]
-    #             if j == n - 1:
-    #                 num_arr.append(temp_str)
-    #
-    #     sec_str = alpha_arr[0]
-    #     sec_temp = 0
-    #     for i in range(0, len(alpha_arr)):
-    #         sec_temp += len(alpha_arr[i]) * int(num_arr[i])
-    #         if k > sec_temp:
-    #             sec_str = alpha_arr[i+1]
-    #             k -= sec_temp
-    #     return sec_str[k % len(sec_str)-1]
-
-    # Find K’th Character of Decrypted String
+    # Find K’th Character of Decrypted String : Medium Problem
     def kThCharaterOfDecryptedString(self, s, k):
         alpha_arr = re.findall('[a-z]+', s)
         num_arr = re.findall('[0-9]+', s)
-        arr = alpha_arr[0]
 
         for i in range(0, len(alpha_arr)):
             temp = len(alpha_arr[i]) * int(num_arr[i])
             if k < temp:
-                arr = alpha_arr[i]
-                break
+                return alpha_arr[i][k % len(alpha_arr[i]) - 1]
             else:
                 k -= temp
-        return arr[k % len(arr) - 1]
+        return ""
 
     # Check if the string is in correct IP address format
     def isValidIPv4(self, ip_address):
